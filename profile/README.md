@@ -3,6 +3,8 @@ This is the one and only cattched Github Organization profile which stores all o
 We are a non-profit organization in hopes to help create tech for any Roblox group who doesn't have the funds to buy tech from other groups.
 We do this by open sourcing and releasing all of our **tech for free!**
 
+[<img src="./discord_join_button.svg" />](https://discord.gg/yATrVSnGSK)
+
 ## Are you a Developer?
 If you are, and is looking for work (There is no guarentee that you'll get paid), then you can join us!
 Just join our [Discord Server](https://discord.gg/yATrVSnGSK) and open a ticket in the #support channel.
