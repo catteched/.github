@@ -1,7 +1,7 @@
 # Welcome to catteched!
 This is the one and only cattched Github Organization profile which stores all of our currently avaible tech! 
-We are a non-profit organization in hopes to help create tech for any Roblox group who doesn't have the funds to buy tech from other groups.
-We do this by open sourcing and releasing all of our **tech for free!**
+We are a non-profit organization in hopes to help create tech for any Roblox group who doesn't have much funds.
+In order for us to do this, we open sourced and releasing all of our tech **for free!**.
 
 [<img src="./discord_join_button.svg" />](https://discord.gg/yATrVSnGSK)
 
