@@ -12,10 +12,10 @@ Just join our [Discord Server](https://discord.gg/yATrVSnGSK) and open a ticket 
 ## Tech Information
 All of our tech are license under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-## Terms of Use Guidelines
+### Terms of Use Guidelines
 This is a copy of the guidelines from our Terms of Use message in our Discord Server. This isn't always going to be up to date here, so join our server to see a more up to date Terms of Use!
 
-### Guidelines
+#### Guidelines
 - You are allowed to **modify** and **use** the work in either a commercial or non-commercial contexts[^1]
 - However, you're **not allowed to sell** either the **original** or **modified** versions of our products as a standalone works or have them repackaged as your own[^2]
 - You **may redistribute **the **modified version** (not original) for free to others as long it includes the proper attribution.
