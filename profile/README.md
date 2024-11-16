@@ -6,7 +6,7 @@ In order for us to do this, we open source and release all of our tech **for fre
 [<img src="./discord_join_button.svg" />](https://discord.gg/yATrVSnGSK)
 
 ## Are you a Developer?
-If you are, and is looking for work (There is no guarentee that you'll get paid), then you can join us!
+If you are, and is looking for work (There is no guarentee that you'll get paid, since we don't even profit from the tech we make), then you can join us!
 Just join our [Discord Server](https://discord.gg/yATrVSnGSK) and open a ticket in the #support channel.
 
 ## Tech Information
