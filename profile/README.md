@@ -18,7 +18,7 @@ This is a copy of the guidelines from our Terms of Use message in our Discord Se
 #### Guidelines
 - You are allowed to **modify** and **use** the work in either a commercial or non-commercial contexts[^1]
 - However, you're **not allowed to sell** either the **original** or **modified** versions of our products as a standalone works or have them repackaged as your own[^2]
-- You **may redistribute **the **modified version** (not original) for free to others as long it includes the proper attribution.
+- You **may redistribute** the **modified version** (not original) for free to others as long it includes the proper attribution.
 - You **must** give proper attribution to **catteched** in accordance to the **CC BY 4.0** License. A minimal attribution must include the original author/creator's name (in which this case is catteched), a link to the original work, a link to the discord server (`https://discord.gg/yATrVSnGSK`), and the **CC BY 4.0** License.
 
 Upon downloading/using our tech, you agree to the following:
