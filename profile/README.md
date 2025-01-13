@@ -6,4 +6,4 @@
 
 ## About Us
 
-We are a non-profit tech group on Roblox, bringing you freely customizable systems that will stay free forever™️!
+We are a non-profit tech group on Roblox, bringing you freely customizable systems that will stay free forever™!
